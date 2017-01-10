@@ -1,0 +1,9 @@
+{
+  "libs": [
+  ],
+  "plugins": {
+    "jsx": {},
+    "node": {},
+    "complete_strings": {}
+  }
+}

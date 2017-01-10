@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!.vimrc
+!.tern-project
+!.editorconfig
+!.awesome.addition.lua
